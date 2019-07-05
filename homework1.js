@@ -1,1 +1,3 @@
-bhicafd ubhcd ghj; d j; svd bjsvbjd svbj
+function B(){
+    return null;
+}
