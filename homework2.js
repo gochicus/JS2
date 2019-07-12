@@ -36,6 +36,7 @@ class Products {
         for (let i = 0; i <= this.allProduct.length - 1; i++) {
             count += this.allProduct[i].price;
         }
+        return count;
 
     }
 
