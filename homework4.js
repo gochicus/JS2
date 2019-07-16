@@ -22,10 +22,7 @@ let test = regular.test(text);
 let test2 = text.match(regular);
 let test3 = text.replace(regular2, "\"");
  let test4 = test3.replace(regular3,"\"\w\'");
-// for (let i = 0; i < test2.length - 1; i++) {
-//      test3 = text.replace("\'", "\"");
-//
-// }
+
 console.log(test3);
 
 console.log(test);
